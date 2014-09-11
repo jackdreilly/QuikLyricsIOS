@@ -1,0 +1,10 @@
+installation:
+
+install pods
+>> sudo gem install cocoapods
+
+load dependencies
+>> pod install
+
+open project
+>> open SidebarDemo.xcworkspace
